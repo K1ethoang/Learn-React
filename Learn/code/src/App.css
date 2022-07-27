@@ -1,0 +1,13 @@
+.btn.active {
+  color: #fff;
+  background-color: #333;
+}
+
+.top-btn {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  z-index: 999999;
+  padding: 14px;
+  cursor: pointer;
+}
