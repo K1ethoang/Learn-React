@@ -29,8 +29,10 @@
     - [8.7. useCallback](#87-usecallback)
     - [8.8. useMemo](#88-usememo)
     - [8.9. useReducer](#89-usereducer)
-    - [8.10](#810)
-    - [8.11](#811)
+    - [8.10. useContext](#810-usecontext)
+    - [8.11. Global State with Context + useReducer](#811-global-state-with-context--usereducer)
+    - [8.12.](#812)
+    - [8.13.](#813)
   - [9.](#9)
 
 # I.
@@ -1372,18 +1374,41 @@ export default App;
 
 </details>
 
+- Code: ``
+
 </details>
 
-### 8.10
+### 8.10. useContext
 
 <details>
 <summary> Open </summary>
+
+- Đơn giản hoá việc truyền dữ liệu từ `component cha` xuống `component con`
+- Code: `https://codesandbox.io/s/usecontext-x0xfsf?file=/src/ThemeContext.tsx`
+
 </details>
 
-### 8.11
+### 8.11. Global State with Context + useReducer
 
 <details>
 <summary> Open </summary>
+
+- Code **Todo App**: `https://codesandbox.io/s/global-state-with-context-usereudcer-v75goo `
+
+</details>
+
+### 8.12.
+
+<details>
+<summary> Open </summary>
+
+</details>
+
+### 8.13.
+
+<details>
+<summary> Open </summary>
+
 </details>
 
 ## 9.
