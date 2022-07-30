@@ -31,9 +31,11 @@
     - [8.9. useReducer](#89-usereducer)
     - [8.10. useContext](#810-usecontext)
     - [8.11. Global State with Context + useReducer](#811-global-state-with-context--usereducer)
-    - [8.12.](#812)
-    - [8.13.](#813)
-  - [9.](#9)
+    - [8.12. useImperativeHandle](#812-useimperativehandle)
+  - [9. CSS, SCSS and CSS Modules](#9-css-scss-and-css-modules)
+  - [10. React Router V6](#10-react-router-v6)
+  - [11.](#11)
+    - [11.1.](#111)
 
 # I.
 
@@ -1397,22 +1399,44 @@ export default App;
 
 </details>
 
-### 8.12.
+### 8.12. useImperativeHandle
+
+<details>
+<summary> Open </summary>
+
+- Tuỳ chỉnh được `ref` của 1 `function component`
+- Code: `https://codesandbox.io/s/useimperativehandle-rgv0eu`
+
+</details>
+
+## 9. CSS, SCSS and CSS Modules
+
+<details>
+<summary> Open </summary>
+
+- Code: `https://codesandbox.io/s/thu-vien-clsx-va-classnames-3l1wb8`
+
+</details>
+
+## 10. React Router V6
+
+<details>
+<summary> Open </summary>
+
+- Code: `https://codesandbox.io/s/qx6n6q`
+
+</details>
+
+## 11.
 
 <details>
 <summary> Open </summary>
 
 </details>
 
-### 8.13.
+### 11.1.
 
 <details>
 <summary> Open </summary>
 
-</details>
-
-## 9.
-
-<details>
-<summary> Open </summary>
 </details>
