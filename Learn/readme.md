@@ -1,4 +1,3 @@
-- [I.](#i)
   - [1. SPA/MPA](#1-spampa)
     - [SPA - Single-Page Application](#spa---single-page-application)
     - [Cách triển khai](#cách-triển-khai)
@@ -34,10 +33,6 @@
     - [8.12. useImperativeHandle](#812-useimperativehandle)
   - [9. CSS, SCSS and CSS Modules](#9-css-scss-and-css-modules)
   - [10. React Router V6](#10-react-router-v6)
-  - [11.](#11)
-    - [11.1.](#111)
-
-# I.
 
 ## 1. SPA/MPA
 
@@ -1424,19 +1419,5 @@ export default App;
 <summary> Open </summary>
 
 - Code: `https://codesandbox.io/s/qx6n6q`
-
-</details>
-
-## 11.
-
-<details>
-<summary> Open </summary>
-
-</details>
-
-### 11.1.
-
-<details>
-<summary> Open </summary>
 
 </details>
