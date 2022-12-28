@@ -1,38 +1,40 @@
-  - [1. SPA/MPA](#1-spampa)
-    - [SPA - Single-Page Application](#spa---single-page-application)
-    - [Cách triển khai](#cách-triển-khai)
-    - [Sự khác biệt](#sự-khác-biệt)
-      - [SPA](#spa)
-      - [MPA](#mpa)
-    - [So sánh](#so-sánh)
-      - [Tốc độ](#tốc-độ)
-      - [Bóc tách](#bóc-tách)
-      - [SEO](#seo)
-      - [UX](#ux)
-      - [Quá trình phất triển](#quá-trình-phất-triển)
-      - [Phụ thuộc JavaScript](#phụ-thuộc-javascript)
-    - [Chọn SPA hay MPA ?](#chọn-spa-hay-mpa-)
-  - [2. Hello World](#2-hello-world)
-  - [3. JSX (JavaScript XML)](#3-jsx-javascript-xml)
-  - [4. Props là gì? Dùng props khi nào?](#4-props-là-gì-dùng-props-khi-nào)
-  - [5. Quy ước đặt tên components?](#5-quy-ước-đặt-tên-components)
-  - [6. Children props? Render props?](#6-children-props-render-props)
-  - [7. NPM, NPX and YARN?](#7-npm-npx-and-yarn)
-  - [8. Hooks](#8-hooks)
-    - [8.1 useState (trạng thái của dữ liệu)](#81-usestate-trạng-thái-của-dữ-liệu)
-    - [8.2. Mounth/Unmounth](#82-mounthunmounth)
-    - [8.3. useEffect](#83-useeffect)
-    - [8.4. useLayoutEffect](#84-uselayouteffect)
-    - [8.5. useRef](#85-useref)
-    - [8.6. React.memo](#86-reactmemo)
-    - [8.7. useCallback](#87-usecallback)
-    - [8.8. useMemo](#88-usememo)
-    - [8.9. useReducer](#89-usereducer)
-    - [8.10. useContext](#810-usecontext)
-    - [8.11. Global State with Context + useReducer](#811-global-state-with-context--usereducer)
-    - [8.12. useImperativeHandle](#812-useimperativehandle)
-  - [9. CSS, SCSS and CSS Modules](#9-css-scss-and-css-modules)
-  - [10. React Router V6](#10-react-router-v6)
+- [1. SPA/MPA](#1-spampa)
+  - [SPA - Single-Page Application](#spa---single-page-application)
+  - [Cách triển khai](#cách-triển-khai)
+  - [Sự khác biệt](#sự-khác-biệt)
+    - [SPA](#spa)
+    - [MPA](#mpa)
+  - [So sánh](#so-sánh)
+    - [Tốc độ](#tốc-độ)
+    - [Bóc tách](#bóc-tách)
+    - [SEO](#seo)
+    - [UX](#ux)
+    - [Quá trình phất triển](#quá-trình-phất-triển)
+    - [Phụ thuộc JavaScript](#phụ-thuộc-javascript)
+  - [Chọn SPA hay MPA ?](#chọn-spa-hay-mpa-)
+- [2. Hello World](#2-hello-world)
+- [3. JSX (JavaScript XML)](#3-jsx-javascript-xml)
+- [4. Props là gì? Dùng props khi nào?](#4-props-là-gì-dùng-props-khi-nào)
+- [5. Quy ước đặt tên components?](#5-quy-ước-đặt-tên-components)
+- [6. Children props? Render props?](#6-children-props-render-props)
+- [7. NPM, NPX and YARN?](#7-npm-npx-and-yarn)
+- [8. Hooks](#8-hooks)
+  - [8.1 useState (trạng thái của dữ liệu)](#81-usestate-trạng-thái-của-dữ-liệu)
+  - [8.2. Mounth/Unmounth](#82-mounthunmounth)
+  - [8.3. useEffect](#83-useeffect)
+  - [8.4. useLayoutEffect](#84-uselayouteffect)
+  - [8.5. useRef](#85-useref)
+  - [8.6. React.memo](#86-reactmemo)
+  - [8.7. useCallback](#87-usecallback)
+  - [8.8. useMemo](#88-usememo)
+  - [8.9. useReducer](#89-usereducer)
+  - [8.10. useContext](#810-usecontext)
+  - [8.11. Global State with Context + useReducer](#811-global-state-with-context--usereducer)
+  - [8.12. useImperativeHandle](#812-useimperativehandle)
+  - [8.13. debounce](#813-debounce)
+- [9. CSS, SCSS and CSS Modules](#9-css-scss-and-css-modules)
+- [10. React Router V6](#10-react-router-v6)
+- [10. Axios](#10-axios)
 
 ## 1. SPA/MPA
 
@@ -1404,6 +1406,16 @@ export default App;
 
 </details>
 
+### 8.13. debounce
+
+<details>
+<summary> Open </summary>
+
+- [code](https://codesandbox.io/s/debounce-spz9c3)
+- Open console log
+
+</details>
+
 ## 9. CSS, SCSS and CSS Modules
 
 <details>
@@ -1419,5 +1431,12 @@ export default App;
 <summary> Open </summary>
 
 - Code: `https://codesandbox.io/s/qx6n6q`
+
+</details>
+
+## 10. Axios
+
+<details>
+<summary> Open </summary>
 
 </details>

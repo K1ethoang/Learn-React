@@ -1,9 +1,7 @@
+import MyQuote from "./components/MyQuote";
+
 function App() {
-  return (
-    <div>
-      <h1>Hello</h1>
-    </div>
-  );
+  return <MyQuote content="hhh" />;
 }
 
 export default App;
